@@ -1,0 +1,31 @@
+.background-gray {
+  background-color: #eee;
+}
+.table-border {
+    border:solid 1px #ddd;
+}
+
+.accordion-seperation {
+  /* border-bottom: 1px solid #ddd; */
+  cursor: pointer;
+}
+
+.accordion-hdr {
+  font-size: small;
+  font-weight: 700;
+  color: #007db8;
+}
+
+.data-cell-space {
+  height: 50px;
+  padding-top: 12px;
+}
+
+.accordion-content {
+  font-size: small;
+  word-wrap: break-word;
+}
+
+.row-hover:hover {
+    background-color:#eee;
+}
